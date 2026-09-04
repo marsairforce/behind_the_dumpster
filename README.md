@@ -1,4 +1,3 @@
-What happens behind the dumpster... stays behind the dumpster.
-
+# A collection of discarded things
 
 ![dumpster](doc/dumpster.jpg)
